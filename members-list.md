@@ -20,6 +20,11 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 
 [Add your details over here]`← Don't remove this line`
 
+**Name**: Miłosz Przybylski
+**SRN**:  Not a student  
+**Link to Profile**: [miloszprzybylski89](https://github.com/miloszprzybylski89)  
+**About Me**:  Hello! I'm Miłosz. I'm beginner in coding from Poland trying to learn new stuff. Beside of coding I'm an civil engineer now working and also husband and father. Great to be here with all of you guys. 
+
 **Name**: Niranjan Bhaskar K
 **SRN**: PES1201801486
 **Link to Profile**: [CaelestisZ](https://github.com/CaelestisZ)  
